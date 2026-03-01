@@ -1,0 +1,11 @@
+# Network Security Scanner Tool - Requirements
+# Python 3.8 or higher required
+
+# Core dependencies (using standard library only for educational purposes)
+# No external dependencies required - all functionality implemented using Python standard library
+
+# For documentation generation (optional)
+python-docx>=0.8.11
+
+# For testing (optional)
+pytest>=7.0.0
